@@ -1,0 +1,10 @@
+primary key :
+it should not accept duplicate values. 
+it should not accept null values. 
+
+not null:
+it should not accept null values.
+it should accept duplicate values.
+
+check:
+it is used to write our own conditions (rules) on condition.
