@@ -1,0 +1,10 @@
+example on creating a table using constraint types :
+creating a table using following structure :
+student 1 
+........................
+Rno     Name         M1
+........................
+
+set primary key for Rno
+set notnull for name 
+set check for m1 (marks must be between 0 to 100)
