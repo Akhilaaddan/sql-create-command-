@@ -1,0 +1,5 @@
+creating table using constraints :
+SQL > Create table student 1(
+Rno Number (2)bprimary key ,
+Name varchar2(20) not null ,
+M1 number(3) check (M1 > = 0 and M1 < = 100));
